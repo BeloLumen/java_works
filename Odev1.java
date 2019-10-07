@@ -10,7 +10,7 @@ public class Odev1 {
         num1=scan.nextInt();
         System.out.print("ikinci sayıyı giriniz:");
         num2=scan.nextInt();
-        
+        // asdkjaslkdjasd 
         num1=num1^num2;
         num2=num2^num1;
         num1=num1^num2;
